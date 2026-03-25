@@ -1,2 +1,3 @@
 # LittleRecaptcha
-LittleRecaptcha is here.
+
+LittleRecaptcha is here. Supplied AS-IS by a MIT license.
