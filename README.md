@@ -6,4 +6,4 @@ For any need of software additions, plugins and improvements please write to inf
 
 To help please donate by clicking https://gaox.io/l/dona1 and filling the form.
 
-Feedback: code@gaox.eu
+Feedback: code@gaox.io
